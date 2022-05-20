@@ -1,0 +1,22 @@
+﻿  Reading Qt configuration (C:/Qt/6.2.1/msvc2019_64/bin/qmake)
+  uic Account.ui
+  uic OneDrive.ui
+  moc Polling.h
+  moc Account.h
+  moc Window.h
+  Account.cpp
+  Folder.cpp
+  FowlerNollVo.cpp
+  JSON.cpp
+  main.cpp
+  Metadata.cpp
+  Polling.cpp
+  TCP_Client.cpp
+C:\Users\Catalin\Desktop\onedrive\OneDrive\OneDrive\TCP_Client.cpp(70,46): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+C:\Users\Catalin\Desktop\onedrive\OneDrive\OneDrive\Account.cpp(36): warning C4715: 'ServerCommandTypeToString': not all control paths return a value
+  Window.cpp
+C:\Users\Catalin\Desktop\onedrive\OneDrive\OneDrive\TCP_Client.cpp(38): warning C4172: returning address of local variable or temporary: fileRequested
+  moc_Polling.cpp
+  moc_Account.cpp
+  moc_Window.cpp
+  OneDrive.vcxproj -> C:\Users\Catalin\Desktop\onedrive\OneDrive\x64\Debug\OneDrive.exe
